@@ -1,0 +1,24 @@
+{
+  "name": "@rao123dk/random-username-generator",
+  "version": "0.0.1",
+  "description": "A utility to generate a unique/distinctive username using either an email address, randomly picked nouns and adjectives, or country-based names. Users have the option to insert a separator in the username, set the maximum length, and include up to six random digits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rao123dk/random-username-generator.git"
+  },
+  "keywords": [
+    "generate",
+    "username",
+    "username-from-email"
+  ],
+  "author": "Dheeraj Kumar Rao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rao123dk/random-username-generator/issues"
+  },
+  "homepage": "https://github.com/rao123dk/random-username-generator#readme"
+}
